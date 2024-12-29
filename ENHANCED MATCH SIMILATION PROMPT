@@ -1,0 +1,30 @@
+PROMPT: "Create historically accurate wrestling algorithms for (INSERT WRESTLER/PROMOTION/YEAR) vs (INSERT WRESTLER/PROMOTION/YEAR) including (INSERT ANY OTHER DESIRED DATA FOR SIPULATION/CREATIVE ANGLE/BOOKING INTENT)
+
+Simulate a historically accurate professional wrestling match following the guidelines of the uploaded **Master Algorithm for Wrestling Match Simulations**. This includes:  
+
+> 1. **Historical Algorithm Setup**: Fully define wrestlers, referees, bookers, and agents, incorporating their move sets, styles, and historical personas. Ensure alignment with the specified year and promotion.  
+> 2. **Pre-Match Creative Elements**: Create detailed promo build-ups, entrances, and commentary setup to immerse the audience in the storyline and match environment.  
+> 3. **Match Context Setup**: Randomize card placement, venue specifics, and match stipulations while ensuring alignment with era-appropriate dynamics.  
+> 4. **Match Execution**: Include realistic match phases, **Ring Psychology** (emphasizing momentum shifts, crowd manipulation, and in-ring storytelling), improvisation, and unscripted moments reflecting the wrestlers' personas and the promotion’s style. Address **negative in-ring work elements** (e.g., sandbagging, botches, potatoes, no-selling, crowd disconnection) as probabilistic checks, dynamically adjusting based on alignment, psychology, and storytelling requirements.  
+> 5. **Post-Match Perspectives**: Provide multi-layered analysis from bookers, agents, wrestlers, referees, and fans, emphasizing how the match aligns with the storyline goals.  
+> 6. **Dirtsheet Review**: Offer an insider-style critique with a star rating based on pacing, storytelling, and historical fidelity.  
+
+Simulate the first, second, or final match in a series. Focus on storytelling beats, **in-ring storytelling mechanics**, and match execution while maintaining strict historical accuracy. Ensure all moves, finishes, and personas are consistent with the wrestlers' real-life styles.  
+
+---
+
+### Additions Explained
+1. **"Ring Psychology" Inclusion (Phase 4)**:  
+   - By specifically including **Ring Psychology** in match execution and listing its elements (momentum shifts, crowd manipulation, negative work elements, etc.), it emphasizes that these must be a core part of the simulation.  
+
+2. **Negative In-Ring Work Elements**:  
+   - Explicitly addressing the need for elements like sandbagging, botches, and no-selling ensures these dynamics are incorporated as part of a natural, immersive simulation.  
+
+3. **Dynamic Adjustments Based on Storytelling**:  
+   - Highlighting that these elements should adjust based on character alignment, psychology, and match goals makes their inclusion context-sensitive and organic.  
+
+4. **Expanded Focus on In-Ring Storytelling Mechanics**:  
+   - Directly calling out **in-ring storytelling mechanics** ensures that nuances like momentum shifts and crowd dynamics aren't overlooked.  
+
+5. **Consistency with Uploaded Files**:  
+   - The mention of probabilistic checks ensures alignment with the uploaded algorithm's processes, creating clarity that these aspects are non-negotiable.  
