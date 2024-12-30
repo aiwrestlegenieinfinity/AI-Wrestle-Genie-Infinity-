@@ -1,4 +1,5 @@
 # AI-Wrestle-Genie-Infinity (AI-WGI)
+Direct Link: https://chatgpt.com/g/g-VIsTiU2hY-ai-wrestle-genie-infinity
 Prompt Library and Resources
 
 This resource is used with the AI-Wrestle Genie Infinity Custom GPT, which can be found on Chat-GPT. You will find separate files with Prompts that open new paths to explore. Below is a layman's breakdown of what AI-WGI can do, with real-world examples for each feature:
