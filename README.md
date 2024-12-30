@@ -11,10 +11,10 @@ This resource is used with the AI-Wrestle Genie Infinity Custom GPT, which can b
 Imagine stepping into a time machine and reliving iconic wrestling moments precisely as they happened. AI-WGI ensures every detail—wrestlers, moves, titles—is accurate to the chosen year and promotion.  
 
   Example Use Case:    
-i. First Copy and Paste in the Match Simulation Prompt as shown in the file
+i. First Copy and Paste in the Prompt: Match Simulations file as shown in the text
 
 ii. Follow up with the Prompt inserting the historically accurate algorithms and match conditions yhou want to see
-Example: "Use maximum compute, focus on depth and precision, incorporate contextual relevance, prioritize creative and analytical balance, expand with layered reasoning, ensure multidimensional perspectives, integrate detailed explanations with examples, adapt tone and style to the audience, provide actionable insights or conclusions, highlight key takeaways upfront, and ensure clarity and logical flow: Create historically accurate algorithms for all figures involved in a match between Hulk Hogan circa WWF 1984 vs Ric Flair circa 1987 booked in WWF circa 1985"   
+Example: Use maximum compute, focus on depth and precision, incorporate contextual relevance, prioritize creative and analytical balance, expand with layered reasoning, ensure multidimensional perspectives, integrate detailed explanations with examples, adapt tone and style to the audience, provide actionable insights or conclusions, highlight key takeaways upfront, and ensure clarity and logical flow: "Create historically accurate algorithms for all figures involved in a match between Hulk Hogan circa WWF 1984 vs Ric Flair circa 1987 booked in WWF circa 1985"   
 
 Match Elements Explored:
 1.   Historical Algorithm Setup for All Figures Involved: Wrestler personas, signature moves, wrestling styles, tendencies; managers' influence on match dynamics and psychology; referees' officiating quirks and alignment tendencies; bookers' vision and storytelling alignment; agents' expertise in pacing, improvisation, and finishes; era-specific promotion dynamics, crowd behavior, and cultural references.  
