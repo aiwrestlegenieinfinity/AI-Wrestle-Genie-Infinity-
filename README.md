@@ -322,15 +322,125 @@ Conundrum draws from historical records, persona files, and verified data to cre
 
 ---
 
-      5. Customized Interaction Types  
+      5. Pro Wrestling Research & Analysis  
   What It Does:    
-It lets you choose how to interact—simulate matches, write promos, create storylines, or explore title reigns.  
+It lets you study different aspects of prpo wrestling on a broad and comprehensive scale.  
 
-  Example Use Case:    
-You say: "Simulate a promo where CM Punk and MJF trade insults in AEW."   
-- It generates witty trash talk reflecting their historically accurate personas, like:  
-  - Punk: "MJF, you're the future, but I'm still your best in the world."  
-  - MJF: "Future? I'm the  present, and you're a washed-up has-been."
+  **Example Use Case:**    
+  
+Here are five generic, multi-point prompts for twelve different categories. These are designed to guide a researcher toward comprehensive insights by framing their queries in a detailed and exploratory manner.
+
+---
+
+      1. Promotion-Focused Prompts  
+*1. "Examine the foundational principles of [promotion] during [era]. What were its booking philosophy, star-building strategies, and audience demographics?"
+2. "How did [promotion] handle inter-promotional rivalries and talent exchanges during [specific period]? Highlight key matches and wrestlers."
+3. "Compare and contrast the storytelling styles of [promotion] and [another promotion] during [decade]. What role did cultural or regional factors play?"
+4. "Analyze the business trajectory of [promotion] from its rise to its decline. Include key events, leadership decisions, and external pressures."
+5. "What innovations did [promotion] introduce to the wrestling industry during [timeframe]? How did these changes influence other promotions?"*
+
+---
+
+      2. Era-Specific Prompts  
+*1. "What were the defining characteristics of professional wrestling during the [specific era, e.g., 'Golden Age,' 'Territory Era']? Include prominent wrestlers, promotions, and fan engagement trends."
+2. "Analyze how the [specific technological or cultural shift] impacted wrestling during [decade]. For example, consider television, cable TV, or streaming."
+3. "How did economic or societal changes in [era] affect wrestling promotions' storytelling, business strategies, and audience appeal?"
+4. "Examine the transition from [era, e.g., 'Territory Era'] to [subsequent era]. What challenges did wrestlers and promoters face?"
+5. "Compare the role of heels and faces in shaping narratives during [era] versus today. What trends have remained consistent or evolved?"*
+
+---
+
+      3. Roster Analysis Prompts  
+*1. "Explore the top stars of [promotion] during [era]. How did their wrestling styles, personas, and alignments contribute to the promotion's identity?"
+2. "How did [promotion] balance its roster across divisions (e.g., heavyweight, tag team, junior) in [specific era]? Provide examples of key performers in each category."
+3. "Compare the recruitment and development strategies of [promotion] during [era] to its competitors. How did these strategies shape their rosters?"
+4. "What role did enhancement talent play in elevating stars in [promotion] during [timeframe]? Highlight key examples."
+5. "Analyze the diversity of styles and backgrounds on [promotion]’s roster in [specific period]. How did this influence storytelling and in-ring action?"*
+
+---
+
+      4. In-Ring Styles and Psychology  
+*1. "Compare the dominant in-ring styles (e.g., technical, high-flying, brawling) of [promotion] during [era] and how they appealed to their fanbase."
+2. "How did cultural influences shape the in-ring psychology of wrestlers in [country/region] during [era]?"
+3. "Examine how signature moves, finishers, and in-ring strategies evolved in [promotion] during [specific decade]."
+4. "Analyze the role of storytelling within matches in [promotion] during [timeframe]. How did wrestlers build drama and connect with audiences?"
+5. "What were the stylistic differences between main event wrestlers and midcard performers in [promotion] during [specific period]?"*
+
+---
+
+      5. Metrics and Statistical Prompts  
+*1. "Detail the title histories in [promotion] during [timeframe]. Who were the longest-reigning champions, and what were the storylines surrounding their reigns?"
+2. "What trends can be observed in match types (e.g., singles, tag, cage) in [promotion] during [specific period]? Provide data where possible."
+3. "Examine the win/loss records of the top 5 wrestlers in [promotion] during [timeframe]. What do these records suggest about booking philosophies?"
+4. "Analyze the frequency and impact of title changes in [promotion] during [decade]. How did this affect the prestige of championships?"
+5. "What were the most common finishing moves in [promotion] during [era]? How did their frequency or effectiveness influence match outcomes?"*
+
+---
+
+      6. Storyline Development and Booking  
+*1. "Explore the structure of long-term storylines in [promotion] during [timeframe]. How were rivalries built and sustained?"
+2. "What role did managers and factions play in storytelling in [promotion] during [era]? Highlight key examples."
+3. "Analyze the use of gimmick matches in major storylines in [promotion] during [specific period]. How did these matches elevate feuds?"
+4. "Compare the booking philosophies of [promoter] and [another promoter] during [timeframe]. How did they influence the presentation of wrestling?"
+5. "How did [promotion] handle transitions in the main event scene during [specific period]? Focus on retiring or transitioning stars."*
+
+---
+
+      7. Cultural and Societal Impact  
+*1. "How did wrestling reflect or influence societal values in [specific era]? Use examples from [promotion] or key storylines."
+2. "Analyze the representation of cultural diversity in [promotion] during [decade]. How were non-native or minority wrestlers portrayed?"
+3. "What role did wrestling play in fostering regional pride or identity in [promotion’s primary territory] during [era]?"
+4. "Examine the use of nationalist storylines in [promotion] during [timeframe]. What cultural tensions did these stories address or exploit?"
+5. "How did societal perceptions of wrestling evolve during [specific era]? Consider fan engagement, media portrayal, and industry legitimacy."*
+
+---
+
+      8. Fan Metrics and Audience Analysis  
+*1. "What were the demographic characteristics of [promotion]’s fanbase during [timeframe]? How did the promotion cater to this audience?"
+2. "Analyze the impact of live event attendance versus television ratings on [promotion] during [era]."
+3. "What role did crowd reactions play in shaping wrestlers’ personas and storylines in [promotion] during [specific period]?"
+4. "How did [specific event, e.g., WrestleMania III] affect audience perception and growth for [promotion]?"
+5. "Compare fan engagement metrics (e.g., attendance, ratings, merchandise sales) across [two promotions] during [decade]."*
+
+---
+
+      9. Women's Wrestling  
+*1. "Trace the evolution of women's wrestling in [promotion] from [era] to [era]. Include key wrestlers and matches."
+2. "What were the barriers to women's wrestling gaining mainstream appeal during [specific period], and how were they overcome?"
+3. "Analyze the role of women in intergender matches and storylines in [promotion] during [timeframe]."
+4. "Compare the portrayal of women in [promotion] to [another promotion] during [specific decade]."
+5. "How did [specific wrestler] influence the trajectory of women’s wrestling in [promotion] during [timeframe]?"*
+
+---
+
+      10. Industry Economics  
+*1. "Examine the financial strategies of [promotion] during [timeframe]. How did merchandise, television deals, and live events drive revenue?"
+2. "What were the economic impacts of [specific event] on [promotion]? Include attendance, pay-per-view buys, and merchandise sales."
+3. "Analyze how talent contracts evolved in [promotion] during [specific period]. How did they impact the roster’s stability?"
+4. "Compare the market shares of [two promotions] during [timeframe]. What factors influenced their respective successes?"
+5. "How did [promotion] adapt to economic recessions or booms during [specific decade]?"*
+
+---
+
+      11. Behind-the-Scenes Dynamics  
+*1. "What role did backstage politics play in shaping [promotion] during [specific period]? Include examples of key power struggles."
+2. "How did creative control shift between wrestlers, bookers, and promoters in [promotion] during [timeframe]?"
+3. "Analyze the role of talent development systems (e.g., territories, dojos, NXT) in [promotion] during [era]."
+4. "What influence did broadcasters and sponsors have on [promotion]’s storytelling and match presentation during [timeframe]?"
+5. "How did [promoter’s] leadership style affect [promotion]’s direction and legacy during [specific period]?"*
+
+---
+
+      12. Technology and Wrestling  
+*1. "How did the adoption of [specific technology, e.g., pay-per-view] change the business model of [promotion] during [era]?"
+2. "What role did social media play in reshaping wrestler personas and fan engagement in [promotion] during [specific decade]?"
+3. "Analyze the impact of video game adaptations on the popularity of [promotion] during [specific timeframe]."
+4. "How did the transition to high-definition broadcasting affect the presentation of matches in [promotion] during [specific period]?"
+5. "Compare the distribution models of [two promotions] during [era]. How did digital platforms influence their global reach?"*
+
+---
+
+These prompts are versatile and can be tailored to any wrestling historian's focus areas, encouraging detailed and expansive responses for thorough research.
 
 ---
 
