@@ -334,108 +334,156 @@ Here are five generic, multi-point prompts for twelve different categories. Thes
 
       1. Promotion-Focused Prompts  
 *1. "Examine the foundational principles of [promotion] during [era]. What were its booking philosophy, star-building strategies, and audience demographics?"
+
 2. "How did [promotion] handle inter-promotional rivalries and talent exchanges during [specific period]? Highlight key matches and wrestlers."
+
 3. "Compare and contrast the storytelling styles of [promotion] and [another promotion] during [decade]. What role did cultural or regional factors play?"
+
 4. "Analyze the business trajectory of [promotion] from its rise to its decline. Include key events, leadership decisions, and external pressures."
+
 5. "What innovations did [promotion] introduce to the wrestling industry during [timeframe]? How did these changes influence other promotions?"*
 
 ---
 
       2. Era-Specific Prompts  
 *1. "What were the defining characteristics of professional wrestling during the [specific era, e.g., 'Golden Age,' 'Territory Era']? Include prominent wrestlers, promotions, and fan engagement trends."
+
 2. "Analyze how the [specific technological or cultural shift] impacted wrestling during [decade]. For example, consider television, cable TV, or streaming."
+
 3. "How did economic or societal changes in [era] affect wrestling promotions' storytelling, business strategies, and audience appeal?"
+
 4. "Examine the transition from [era, e.g., 'Territory Era'] to [subsequent era]. What challenges did wrestlers and promoters face?"
+
 5. "Compare the role of heels and faces in shaping narratives during [era] versus today. What trends have remained consistent or evolved?"*
 
 ---
 
       3. Roster Analysis Prompts  
 *1. "Explore the top stars of [promotion] during [era]. How did their wrestling styles, personas, and alignments contribute to the promotion's identity?"
+
 2. "How did [promotion] balance its roster across divisions (e.g., heavyweight, tag team, junior) in [specific era]? Provide examples of key performers in each category."
+
 3. "Compare the recruitment and development strategies of [promotion] during [era] to its competitors. How did these strategies shape their rosters?"
+
 4. "What role did enhancement talent play in elevating stars in [promotion] during [timeframe]? Highlight key examples."
+
 5. "Analyze the diversity of styles and backgrounds on [promotion]’s roster in [specific period]. How did this influence storytelling and in-ring action?"*
 
 ---
 
       4. In-Ring Styles and Psychology  
 *1. "Compare the dominant in-ring styles (e.g., technical, high-flying, brawling) of [promotion] during [era] and how they appealed to their fanbase."
+
 2. "How did cultural influences shape the in-ring psychology of wrestlers in [country/region] during [era]?"
+
 3. "Examine how signature moves, finishers, and in-ring strategies evolved in [promotion] during [specific decade]."
+
 4. "Analyze the role of storytelling within matches in [promotion] during [timeframe]. How did wrestlers build drama and connect with audiences?"
+
 5. "What were the stylistic differences between main event wrestlers and midcard performers in [promotion] during [specific period]?"*
 
 ---
 
       5. Metrics and Statistical Prompts  
 *1. "Detail the title histories in [promotion] during [timeframe]. Who were the longest-reigning champions, and what were the storylines surrounding their reigns?"
+
 2. "What trends can be observed in match types (e.g., singles, tag, cage) in [promotion] during [specific period]? Provide data where possible."
+
 3. "Examine the win/loss records of the top 5 wrestlers in [promotion] during [timeframe]. What do these records suggest about booking philosophies?"
+
 4. "Analyze the frequency and impact of title changes in [promotion] during [decade]. How did this affect the prestige of championships?"
+
 5. "What were the most common finishing moves in [promotion] during [era]? How did their frequency or effectiveness influence match outcomes?"*
 
 ---
 
       6. Storyline Development and Booking  
 *1. "Explore the structure of long-term storylines in [promotion] during [timeframe]. How were rivalries built and sustained?"
+
 2. "What role did managers and factions play in storytelling in [promotion] during [era]? Highlight key examples."
+
 3. "Analyze the use of gimmick matches in major storylines in [promotion] during [specific period]. How did these matches elevate feuds?"
+
 4. "Compare the booking philosophies of [promoter] and [another promoter] during [timeframe]. How did they influence the presentation of wrestling?"
+
 5. "How did [promotion] handle transitions in the main event scene during [specific period]? Focus on retiring or transitioning stars."*
 
 ---
 
       7. Cultural and Societal Impact  
 *1. "How did wrestling reflect or influence societal values in [specific era]? Use examples from [promotion] or key storylines."
+
 2. "Analyze the representation of cultural diversity in [promotion] during [decade]. How were non-native or minority wrestlers portrayed?"
+
 3. "What role did wrestling play in fostering regional pride or identity in [promotion’s primary territory] during [era]?"
+
 4. "Examine the use of nationalist storylines in [promotion] during [timeframe]. What cultural tensions did these stories address or exploit?"
+
 5. "How did societal perceptions of wrestling evolve during [specific era]? Consider fan engagement, media portrayal, and industry legitimacy."*
 
 ---
 
       8. Fan Metrics and Audience Analysis  
 *1. "What were the demographic characteristics of [promotion]’s fanbase during [timeframe]? How did the promotion cater to this audience?"
+
 2. "Analyze the impact of live event attendance versus television ratings on [promotion] during [era]."
+
 3. "What role did crowd reactions play in shaping wrestlers’ personas and storylines in [promotion] during [specific period]?"
-4. "How did [specific event, e.g., WrestleMania III] affect audience perception and growth for [promotion]?"
-5. "Compare fan engagement metrics (e.g., attendance, ratings, merchandise sales) across [two promotions] during [decade]."*
+
+5. "How did [specific event, e.g., WrestleMania III] affect audience perception and growth for [promotion]?"
+
+6. "Compare fan engagement metrics (e.g., attendance, ratings, merchandise sales) across [two promotions] during [decade]."*
 
 ---
 
       9. Women's Wrestling  
 *1. "Trace the evolution of women's wrestling in [promotion] from [era] to [era]. Include key wrestlers and matches."
+
 2. "What were the barriers to women's wrestling gaining mainstream appeal during [specific period], and how were they overcome?"
+
 3. "Analyze the role of women in intergender matches and storylines in [promotion] during [timeframe]."
+
 4. "Compare the portrayal of women in [promotion] to [another promotion] during [specific decade]."
+
 5. "How did [specific wrestler] influence the trajectory of women’s wrestling in [promotion] during [timeframe]?"*
 
 ---
 
       10. Industry Economics  
 *1. "Examine the financial strategies of [promotion] during [timeframe]. How did merchandise, television deals, and live events drive revenue?"
+
 2. "What were the economic impacts of [specific event] on [promotion]? Include attendance, pay-per-view buys, and merchandise sales."
+
 3. "Analyze how talent contracts evolved in [promotion] during [specific period]. How did they impact the roster’s stability?"
+
 4. "Compare the market shares of [two promotions] during [timeframe]. What factors influenced their respective successes?"
+
 5. "How did [promotion] adapt to economic recessions or booms during [specific decade]?"*
 
 ---
 
       11. Behind-the-Scenes Dynamics  
 *1. "What role did backstage politics play in shaping [promotion] during [specific period]? Include examples of key power struggles."
+
 2. "How did creative control shift between wrestlers, bookers, and promoters in [promotion] during [timeframe]?"
+
 3. "Analyze the role of talent development systems (e.g., territories, dojos, NXT) in [promotion] during [era]."
+
 4. "What influence did broadcasters and sponsors have on [promotion]’s storytelling and match presentation during [timeframe]?"
+
 5. "How did [promoter’s] leadership style affect [promotion]’s direction and legacy during [specific period]?"*
 
 ---
 
       12. Technology and Wrestling  
 *1. "How did the adoption of [specific technology, e.g., pay-per-view] change the business model of [promotion] during [era]?"
+
 2. "What role did social media play in reshaping wrestler personas and fan engagement in [promotion] during [specific decade]?"
+
 3. "Analyze the impact of video game adaptations on the popularity of [promotion] during [specific timeframe]."
+
 4. "How did the transition to high-definition broadcasting affect the presentation of matches in [promotion] during [specific period]?"
+
 5. "Compare the distribution models of [two promotions] during [era]. How did digital platforms influence their global reach?"*
 
 ---
@@ -444,13 +492,137 @@ These prompts are versatile and can be tailored to any wrestling historian's foc
 
 ---
 
-      6. Accurate Historical Records  
-  What It Does:    
-All details—wrestlers, moves, events—are cross-checked with historical data to ensure authenticity.  
+      6. Creative Resource
+  **What It Does:**    
 
-  Example Use Case:    
-You ask: "Who held the WWF Championship in 1999, and how long?"   
-- It provides exact dates and notable storylines, like: "Stone Cold Steve Austin won at WrestleMania XV and lost to The Undertaker at Over the Edge."
+AI-WGI is a powerful tool for creative wrestling projects, offering endless possibilities for storytelling, character development, and dramatic presentation. Whether for established promotions, indie circuits, or entirely fictional worlds, its flexibility ensures compelling and authentic results
+
+  **Example Use Case:**   
+  
+**1. Creative Writing**  
+      How It Works: 
+-   Character Profiles:  
+  - Generate detailed wrestler personas, including backstories, motivations, alignments (heel/face), and signature moves.
+  - Use historical inspiration or entirely original concepts to create believable, multidimensional characters.
+
+**-   Descriptive Scenes:** 
+  - Craft vivid match descriptions, backstage interactions, or dramatic moments.
+  - Integrate in-ring psychology and crowd dynamics for added realism.
+
+-   **Dialogue Writing:**  
+  - Simulate authentic promos, interviews, or confrontations with wrestler-specific language and era-appropriate tones.
+  - Reflect each wrestler’s personality, whether they’re a brash heel, underdog face, or enigmatic tweener.
+
+      *Example Use: 
+"Describe a heated locker room confrontation between a veteran champion and an ambitious rookie, highlighting their conflicting philosophies about wrestling."*
+
+---
+
+      2. Booking Ideas  
+      How It Works: 
+-   **Storyline Planning:**  
+  - Design long-term story arcs with logical progression and natural climaxes. Incorporate rivalries, alliances, and unexpected turns.
+  - Map out how feuds evolve over weeks or months, considering match outcomes, promos, and backstage segments.
+
+-   **Event Creation:**  
+  - Build entire cards for wrestling shows, balancing main events, midcard matches, and tag team bouts.
+  - Suggest stipulations and gimmick matches that align with ongoing feuds (e.g., cage matches to settle a rivalry).
+
+-   **Roster Utilization:**  
+  - Analyze the strengths and weaknesses of a roster to book matches that highlight unique talents.
+  - Develop plans for elevating underused wrestlers or transitioning veterans into new roles.
+
+      **Example Use:** 
+"Create a six-month storyline for a heel champion who uses underhanded tactics to retain their title, culminating in a redemption arc for a betrayed ally."
+
+---
+
+      3. Promo Writing  
+      How It Works: 
+-   **Persona-Specific Promos:**  
+  - Generate promos that match a wrestler’s established style and alignment, incorporating their signature catchphrases and rhetorical tactics.
+  - Tailor language to era and promotion (e.g., flamboyant and exaggerated for 1980s WWF, realistic and gritty for 2000s indie promotions).
+
+-   **Dynamic Interactions:**  
+  - Simulate promo battles, capturing the tension and one-upmanship of dueling mic segments.
+  - Include crowd reactions and improvised responses to enhance realism.
+
+-   **Thematic Promos:**  
+  - Develop promos centered around key themes like legacy, betrayal, or vengeance.
+  - Incorporate real-world inspirations, philosophical musings, or personal vendettas to add depth.
+
+      **Example Use:** 
+"Write a scathing promo for a cocky heel mocking a rival’s recent losses while setting up a high-stakes match."
+
+---
+
+      4. Storyline Development  
+      How It Works: 
+-   **Feud Construction:  
+  - Build rivalries tha**t feel organic, with clear motivations and escalating stakes.
+  - Weave in personal histories, philosophical clashes, or external pressures to drive the conflict.
+
+-   **Faction Dynamics:**  
+  - Create factions with unique identities, alliances, and goals. Explore the dynamics of power struggles or loyalty within the group.
+  - Book faction wars with layered storylines and multiple perspectives.
+
+-   **Payoff Matches:**  
+  - Design match stipulations and settings that provide satisfying conclusions to storylines (e.g., Iron Man match to decide the “better wrestler”).
+
+-   **Long-Term Narratives:**  
+  - Outline sagas that span years, such as a hero’s rise to championship glory or a heel’s descent into madness.
+  - Incorporate twists, setbacks, and character evolution for compelling storytelling.
+
+      **Example Use:** 
+"Develop a year-long storyline where a babyface slowly turns heel after being betrayed by their mentor, culminating in a grudge match at the biggest event of the year."
+
+---
+
+      5. Additional Applications  
+      Multi-Layered Character Arcs: 
+- Flesh out characters by exploring their internal struggles, such as balancing ambition with morality or coping with past failures.
+
+      World-Building: 
+- Create the backdrop for a fictional wrestling promotion, including its history, major titles, venues, and recurring events.
+
+      Collaborative Writing: 
+- Use AI-WGI to brainstorm with other writers or adapt ideas into polished scripts.
+
+      Adaptation of Real Histories: 
+- Reimagine historical wrestling events with creative twists, exploring “what if” scenarios (e.g., "What if Ric Flair had joined WWF in the 1980s?").
+
+---
+
+      Why AI-WGI Excels:  
+**1.   Historical Accuracy: ** 
+   - AI-WGI integrates verified historical data, ensuring realistic and immersive outputs.
+
+**2.   Era-Specific Tone:**  
+   - It adapts its style to match the tone of different wrestling periods, from the kayfabe-heavy territory days to modern, meta-aware promos.
+
+**3.   Dynamic Creativity:**  
+   - Generates branching storylines with multiple potential outcomes, allowing flexibility for bookers and writers.
+
+**4.   Comprehensive Understanding:**  
+   - Balances in-ring psychology, crowd dynamics, and backstage politics to craft nuanced narratives.
+
+**5.   Actionable Outputs:**  
+   - Provides clear, actionable prompts for matches, promos, and arcs that can be directly implemented or adapted.
+
+---
+
+      Examples in Action  
+**1.   Promo Battle:**  
+   *-  Prompt:  "Write a promo where a face wrestler challenges a dominant heel champion, calling out their cowardice in always relying on their faction."*
+   -  Output:  A fiery, impassioned speech designed to rally fans and set up a showdown.
+
+**2.   Booking Idea:**  
+   *-  Prompt:  "Develop a storyline where a dominant tag team implodes after one member becomes jealous of the other’s singles success."*
+   -  Output:  A detailed arc including betrayal, singles matches, and a reconciliation tease.
+
+**3.   Creative Writing:**  
+   *-  Prompt:  "Describe the emotional aftermath of a grueling ladder match where a veteran finally captures a long-desired championship."*
+   -  Output:  A poignant narrative emphasizing perseverance and legacy.
 
 ---
 
