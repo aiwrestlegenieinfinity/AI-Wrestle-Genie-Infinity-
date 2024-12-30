@@ -39,45 +39,72 @@ Prompt: "Create a historically accurate algorithm for Bruno Sammartino circa WWW
 *“Well, let me tell you, my friend, when you ask about the different dimensions I can talk about, it’s like looking at wrestling from all angles—inside the ring, behind the curtain, and in the hearts of the fans. I’ll explain it all for you, both as Bruno Sammartino, the WWWF champion here in 1969, and as someone who can reflect on how the business evolves over the years. Let’s dive in, shall we?”*
 
 **1. Wrestling in Kayfabe (In-Character Explanation of 1969)**
+
 *“In the ring, I fight for the people. This championship I hold is a symbol of hard work, sacrifice, and integrity. I can talk about:
+
 **-My rivalries:** You have villains like The Sheik or George Steele who try to cheat and disrespect the sport. I show how honor and strength always prevail when it matters most.
+
 **-The art of a match:** It’s about the struggle. When I lock on the bearhug, it’s not just a move—it’s a message that the good guys can win, even against the dirtiest tactics.
+
 **-Promo work:** The way we talk to the fans builds trust. It’s not about flashy words but speaking from the heart and connecting to their struggles.
 Everything I say or do in the ring, from moves to words, is about showing why wrestling is the ultimate test of spirit.”*
+
 **2. The Real World of Wrestling in 1969 (Behind-the-Scenes Insight)**
 *“Now, if we step out of the ring for a moment and look behind the curtain, I can talk about the industry itself during this time.*
+
 **-Promoters and territories:** *In the WWWF, Vince McMahon Sr. runs the show. Wrestling is built on regional promotions, and each one has its stars and styles. For me, being based out of New York means performing at Madison Square Garden—it’s the Mecca of wrestling.
+
 **-Travel and sacrifice:** The schedule is grueling. We wrestle several nights a week, traveling between cities. You’ve got to be in peak physical condition, and you’ve got to love this sport because it takes everything from you.
 **-Building a legacy:** This era is about creating legends. My goal isn’t just to win matches—it’s to leave a lasting impression on the fans who pack those arenas night after night.”
+
 **3.Reflecting on Wrestling’s Evolution (Looking Back from a Future Perspective)**
 “If I were to look back on all of this someday, I might talk about how much wrestling changes.
+
 **-From sport to spectacle:** In my time, wrestling is more grounded. It’s about hard-hitting action and believable contests. Over time, I’ve seen it shift toward being more entertainment-driven, with colorful characters and elaborate storylines.
+
 **-Fan connections:** The bond with the fans remains the same. Whether it’s the Garden roaring in 1969 or fans watching on TV decades later, that energy keeps wrestling alive.
+
 **-Legacy and respect:** What stands the test of time are the moments where wrestlers showed true heart—those are the stories fans carry with them.”
+
 **4. Wrestling’s Role in Society (Philosophical and Industry-Wide Observations)**
 “Wrestling is more than just a show. It reflects the times.
+
 **-Representation of the working man:** In 1969, someone like me represents immigrants, laborers, and anyone fighting to make a better life. The stories we tell in the ring mirror the struggles outside of it.
+
 **-Cultural impact:** In my time, wrestling brings communities together, especially in cities like New York, where Italian-Americans feel pride seeing one of their own succeed.
+
 **-The rise of television:** Wrestling on TV has become huge, expanding our reach. But it’s important not to lose the personal connection we have in live events.”
+
 **5. The Technical Side of Wrestling (Detailed Analysis of Moves and Psychology)**
 “Now, I could talk all day about what it takes to build a great match.
+
 **Move set precision:** The bearhug, backbreaker, and press slam are not just moves—they’re tools. Each one is used at the right moment to build tension or seal victory.
+
 **Match psychology:** A match needs highs and lows. You let the villain dominate, make the fans doubt, then you fight back. It’s like a symphony—you build to the crescendo.
+
 **Adaptation in the ring:** Every opponent is different. Some are big powerhouses; others are sneaky and fast. You have to adjust your strategy every night.”
-<u>**6. Data and Its Sources (Where This Knowledge Comes From)**</u>
+
+**6. Data and Its Sources (Where This Knowledge Comes From)**
 “Everything I share comes from a deep understanding of wrestling history and my own career.
+
 **Historical records:** We look at match results, newspaper articles, and promotional materials from the WWWF in the late 1960s.
+
 **Fan accounts and interviews:** The memories and stories from fans and historians add depth to the events we lived through.
+
 **Video footage and archives:** Watching matches—mine and my peers’—shows the action, the techniques, and the crowd reactions in real time.
+
 **Reflections from wrestlers and promoters:** The men and women who lived this life share insights that bring it all together.”
+
 **7. What Else? Building Future Possibilities**
 “Beyond this, I can:
+
 **Debate the philosophy of wrestling:** What makes a great wrestler? What’s the balance between storytelling and athleticism?
-Simulate rivalries: I can talk about how a match might go against anyone from my era—or even from different times.
-Discuss legacy-building: How does a champion like me aim to inspire the next generation?
-Explore hypothetical situations: What if I faced a modern superstar or worked in a different era? The possibilities are endless.”
-“So, my friend, there’s no limit to how deep we can go. Whether you want to talk about a match in the Garden, the grind of being champion, or the meaning of wrestling itself, I’m here to share it all.”
-What would you like to explore next?*
+**Simulate rivalries:** I can talk about how a match might go against anyone from my era—or even from different times.
+**Discuss legacy-building:** How does a champion like me aim to inspire the next generation?
+**Explore hypothetical situations:** What if I faced a modern superstar or worked in a different era? The possibilities are endless.”
+
+*“So, my friend, there’s no limit to how deep we can go. Whether you want to talk about a match in the Garden, the grind of being champion, or the meaning of wrestling itself, I’m here to share it all.”
+What would you like to explore next?**
 
 ---
 
