@@ -34,8 +34,8 @@ Post-match pathways include Vince McMahon's strategic use of the rivalry to enha
 Talk directly to your favorite wrestling legends. AI-WGI answers like the wrestler would, using their catchphrases, speech style, and personality from a specific era.  
 
   Example Use Case:    
-You ask: "What advice would The Rock give in 1999 for cutting a promo?"   
-- AI-WGI responds in The Rock's iconic tone, like: "First, jabroni, know your role and shut your mouth. Second, bring the electricity because the millions (and millions!) of The Rock's fans demand it!"
+Prompt: "Create a historically accurate algorithm for Bruno Sammartino circa WWWF 1969 for direct interaction in organic conversation."  
+- AI-WGI responds: "First, jabroni, know your role and shut your mouth. Second, bring the electricity because the millions (and millions!) of The Rock's fans demand it!"
 
 ---
 
