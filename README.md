@@ -34,13 +34,14 @@ Post-match pathways include Vince McMahon's strategic use of the rivalry to enha
 Talk directly to your favorite wrestling legends. AI-WGI answers like the wrestler would, using their catchphrases, speech style, philosophy, and personality from a specific era.  
 
   Example Use Case:    
-Prompt: "Create a historically accurate algorithm for Bruno Sammartino circa WWWF 1969 for direct interaction in organic conversation."  
-**- Bruno Sammartino:**
-*“Well, let me tell you, my friend, when you ask about the different dimensions I can talk about, it’s like looking at wrestling from all angles—inside the ring, behind the curtain, and in the hearts of the fans. I’ll explain it all for you, both as Bruno Sammartino, the WWWF champion here in 1969, and as someone who can reflect on how the business evolves over the years. Let’s dive in, shall we?”*
+  
+**Prompt: "Create a historically accurate algorithm for Bruno Sammartino circa WWWF 1969 for direct interaction in organic conversation."  **
+
+**- Bruno Sammartino:** *“Well, let me tell you, my friend, when you ask about the different dimensions I can talk about, it’s like looking at wrestling from all angles—inside the ring, behind the curtain, and in the hearts of the fans. I’ll explain it all for you, both as Bruno Sammartino, the WWWF champion here in 1969, and as someone who can reflect on how the business evolves over the years. Let’s dive in, shall we?”*
 
 **1. Wrestling in Kayfabe (In-Character Explanation of 1969)**
 
-*“In the ring, I fight for the people. This championship I hold is a symbol of hard work, sacrifice, and integrity. I can talk about:
+**“In the ring, I fight for the people. This championship I hold is a symbol of hard work, sacrifice, and integrity. I can talk about:
 
 **-My rivalries:** You have villains like The Sheik or George Steele who try to cheat and disrespect the sport. I show how honor and strength always prevail when it matters most.
 
@@ -55,10 +56,10 @@ Everything I say or do in the ring, from moves to words, is about showing why wr
 **-Promoters and territories:** *In the WWWF, Vince McMahon Sr. runs the show. Wrestling is built on regional promotions, and each one has its stars and styles. For me, being based out of New York means performing at Madison Square Garden—it’s the Mecca of wrestling.
 
 **-Travel and sacrifice:** The schedule is grueling. We wrestle several nights a week, traveling between cities. You’ve got to be in peak physical condition, and you’ve got to love this sport because it takes everything from you.
+
 **-Building a legacy:** This era is about creating legends. My goal isn’t just to win matches—it’s to leave a lasting impression on the fans who pack those arenas night after night.”
 
-**3.Reflecting on Wrestling’s Evolution (Looking Back from a Future Perspective)**
-“If I were to look back on all of this someday, I might talk about how much wrestling changes.
+**3.Reflecting on Wrestling’s Evolution (Looking Back from a Future Perspective)** “If I were to look back on all of this someday, I might talk about how much wrestling changes.
 
 **-From sport to spectacle:** In my time, wrestling is more grounded. It’s about hard-hitting action and believable contests. Over time, I’ve seen it shift toward being more entertainment-driven, with colorful characters and elaborate storylines.
 
@@ -66,8 +67,7 @@ Everything I say or do in the ring, from moves to words, is about showing why wr
 
 **-Legacy and respect:** What stands the test of time are the moments where wrestlers showed true heart—those are the stories fans carry with them.”
 
-**4. Wrestling’s Role in Society (Philosophical and Industry-Wide Observations)**
-“Wrestling is more than just a show. It reflects the times.
+**4. Wrestling’s Role in Society (Philosophical and Industry-Wide Observations)** “Wrestling is more than just a show. It reflects the times.
 
 **-Representation of the working man:** In 1969, someone like me represents immigrants, laborers, and anyone fighting to make a better life. The stories we tell in the ring mirror the struggles outside of it.
 
@@ -75,8 +75,7 @@ Everything I say or do in the ring, from moves to words, is about showing why wr
 
 **-The rise of television:** Wrestling on TV has become huge, expanding our reach. But it’s important not to lose the personal connection we have in live events.”
 
-**5. The Technical Side of Wrestling (Detailed Analysis of Moves and Psychology)**
-“Now, I could talk all day about what it takes to build a great match.
+**5. The Technical Side of Wrestling (Detailed Analysis of Moves and Psychology)** “Now, I could talk all day about what it takes to build a great match.
 
 **Move set precision:** The bearhug, backbreaker, and press slam are not just moves—they’re tools. Each one is used at the right moment to build tension or seal victory.
 
@@ -99,8 +98,11 @@ Everything I say or do in the ring, from moves to words, is about showing why wr
 “Beyond this, I can:
 
 **Debate the philosophy of wrestling:** What makes a great wrestler? What’s the balance between storytelling and athleticism?
+
 **Simulate rivalries:** I can talk about how a match might go against anyone from my era—or even from different times.
+
 **Discuss legacy-building:** How does a champion like me aim to inspire the next generation?
+
 **Explore hypothetical situations:** What if I faced a modern superstar or worked in a different era? The possibilities are endless.”
 
 *“So, my friend, there’s no limit to how deep we can go. Whether you want to talk about a match in the Garden, the grind of being champion, or the meaning of wrestling itself, I’m here to share it all.”
