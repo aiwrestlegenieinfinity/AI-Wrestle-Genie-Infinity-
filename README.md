@@ -324,7 +324,7 @@ Conundrum draws from historical records, persona files, and verified data to cre
 
       5. Pro Wrestling Research & Analysis  
   What It Does:    
-It lets you study different aspects of prpo wrestling on a broad and comprehensive scale.  
+It lets you study different aspects of pro wrestling on a broad and comprehensive scale.  
 
   **Example Use Case:**    
   
