@@ -2,7 +2,16 @@
 Direct Link: https://chatgpt.com/g/g-VIsTiU2hY-ai-wrestle-genie-infinity
 Prompt Library and Resources
 
-This resource is used with the AI-Wrestle Genie Infinity Custom GPT, which can be found on Chat-GPT. You will find separate files with Prompts that open new paths to explore. Below is a layman's breakdown of what AI-WGI can do, with real-world examples for each feature:
+The earliest reliable information on professional wrestling varies by region, reflecting unique historical trajectories:
+
+-   North America  : Reliable information begins in the 1870s with isolated matches featuring figures like Frank Gotch and Ed “Strangler” Lewis. Organized promotions emerge in the 1920s, marking a significant turning point.  
+-   Mexico  : Wrestling history becomes well-documented in 1933 with the establishment of EMLL (Empresa Mexicana de Lucha Libre), the foundation of modern lucha libre.  
+-   Japan  : Modern puroresu originates in 1951, driven by the rise of Rikidōzan, a pivotal figure in Japanese wrestling history.  
+-   United Kingdom  : Catch wrestling thrives as early as 1900, with the 1950s World of Sport era boosting the popularity of technical wrestling through television.  
+-   Canada  : The founding of Stampede Wrestling in 1948 marks the beginning of Canada’s well-documented wrestling history, emphasizing technical prowess and family-based stars.  
+-   Australia  : International imports dominate wrestling in the 1920s and 1930s, with clearer records and a more organized scene emerging by the 1950s.  
+
+This coincides with what AI-WGI is able to relay historically accurate data. Here you will find separate files with Prompts that open a near limitless amount of new pathways to explore. Below is a layman's breakdown of what AI-WGI can do, with real-world examples for each feature:
 
 ---
 
