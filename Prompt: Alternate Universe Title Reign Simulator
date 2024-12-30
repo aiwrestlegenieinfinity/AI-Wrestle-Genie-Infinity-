@@ -1,0 +1,106 @@
+Title Reign Simulation
+Prompt: "Simulate a historically accurate title reign for RANDOM WRESTLER FROM A RANDOM YEAR as CHAMPION IN AN ALTERNATE PROMOTION FROM AN ALTERNATE YEAR. Include: 
+
+1. Detailed title win and the significance of the victory.
+2. Promos and segments reflecting the champion’s character and philosophy on holding the title.
+3. A series of title defenses, including detailed match simulations with crowd psychology and stipulations.
+4. Storylines involving challengers and authority figures, escalating the tension over the title.
+5. The eventual loss of the title, with post-match fallout and long-term character implications.
+6. Commentary and fan reactions to key moments in the reign, reflecting its historical impact. Create historically accurate wrestling algorithms for (INSERT WRESTLER/PROMOTION/YEAR) vs (INSERT WRESTLER/PROMOTION/YEAR) including (INSERT ANY OTHER DESIRED DATA FOR SIPULATION/CREATIVE ANGLE/BOOKING INTENT)
+
+Simulate a professional wrestling match using **historically accurate algorithms** for all figures involved (wrestlers, managers, referees, bookers, agents, and promotions). Ensure the match reflects the real-life dynamics, styles, and era-specific environments of the individuals and organizations.
+
+---
+
+#### **Algorithm Core Structure**  
+1. **Historical Algorithm Setup for All Figures Involved**:  
+   - **Wrestlers**: Define personas, signature moves, wrestling styles, and tendencies.  
+   - **Managers**: Specify influence on match dynamics, crowd psychology, and interference patterns.  
+   - **Referees**: Incorporate officiating style, alignment tendencies, and historical quirks.  
+   - **Bookers**: Ensure alignment with overall creative vision, storytelling preferences, and era-specific booking tendencies.  
+   - **Agents**: Focus on match layout expertise, storytelling beats, improvisational allowances, and finish execution.  
+   - **Promotion Dynamics**: Include era-specific match structures, crowd behavior, and cultural references.  
+
+2. **Randomized Match Details**:  
+   - Opponent, referee, venue, match stipulations, card placement, storyline context, championship stakes, managers/valets, entrance themes, ring announcer, audience demographics, weather conditions (if applicable), special guest appearances, technical presentation, cultural references, and fan interactions are dynamically randomized for authenticity.  
+
+3. **Pre-Match Creative Elements**:  
+   - **Agent Instructions to Talent**:  
+     - Define match pacing, storytelling beats, and signature spots to include.  
+     - Discuss improvisational flexibility for crowd reactions or unexpected events.  
+     - Ensure the match aligns with broader storylines and promotion goals.  
+   - **Pre-Match Build-Up**:  
+     - Create promotional materials such as video packages or highlight reels summarizing the feud.  
+     - Add backstage interviews or in-ring promos to establish motivations.  
+     - Include live promos at the entrance ramp or ringside to build tension and excitement.  
+
+4. **Match Context Setup**:  
+   - Specify the historical dynamics of the wrestlers and promotion.  
+   - Define card placement and storyline integration.  
+   - Ensure match type, venue, and external factors align with the era.  
+
+5. **Match Execution**:  
+   - **Ring Psychology**: Wrestlers should behave naturally according to their defined roles, using styles and strategies organically.  
+     - **[Added Section: Randomized Negative In-Ring Work Elements]**  
+       - **Randomized Possibilities**:
+         - Introduce probabilistic checks for the following negative elements to enhance realism:  
+           - **Sandbagging Moves**: Resistance during moves, especially in rivalries or high-pressure matches.  
+           - **Botched Spots**: Higher probability during complex sequences or under fatigue.  
+           - **Potatoes**: Occasional stiff strikes due to mistimed actions or heated rivalries.  
+           - **No-Selling or Over-Selling**: Randomly aligned to character tendencies and crowd manipulation.  
+           - **Blown Timing or Dead Space**: Missteps in synchronization or pacing, with increased risk in multi-person matches.  
+           - **Crowd Disconnection**: Flat audience reactions due to poor improvisation or storytelling missteps.  
+       - **Dynamic Adjustments**:
+         - Wrestler-specific traits (experience, alignment) determine the likelihood and impact of these elements.  
+         - Faces may use over-selling to build sympathy; heels may deliberately no-sell for heat.  
+       - **Improvisation and Recovery**:
+         - Assign probabilities for seamless recovery based on wrestler improvisation skills. Poor improvisers amplify the impact of errors.  
+   - **Crowd Psychology**: Crowd reactions should dynamically influence in-ring behavior.  
+   - **Match Structure**: Divide into logical phases (opening spots, heat segments, hope spots, comebacks, and finish).  
+   - **Improvisation**: Allow for botches, crowd chants, unscripted interactions, and era-appropriate unpredictability.  
+   - **Match Environment**: Reflect the setting, referee involvement, crowd size, and cultural atmosphere.  
+
+6. **Post-Match Perspectives**:  
+   - **Booker’s and Agent’s Perspectives**: Assess storytelling, execution, and alignment with creative goals.  
+   - **Wrestlers’ Perspectives**: Include insights into their performance and in-match psychology.  
+   - **Locker Room Sentiment and Humor**: Add realistic backstage reactions and humor.  
+     - **New Instruction: Generate insights from a historically accurate member of the promotion’s roster for the specified year and promotion. Ensure their observations reflect their documented persona, alignment, and backstage demeanor.**  
+     - **Steps**:  
+       1. Select a verified roster member active in the specified year and promotion.  
+       2. Craft their commentary to reflect era-appropriate language and personality.  
+       3. Highlight their perspective on match psychology, storytelling, or character performances.  
+   - **Fan Perspectives**: Highlight responses from casual, hardcore, and cultural fan segments.  
+   - **Other Contexts**: Commentary team analysis, production crew evaluations, and sponsor perspectives when applicable.  
+
+7. **Dirtsheet Match Review with Star Rating**:  
+   - Provide an insider-style critique (e.g., "Dave Meltzer-type") evaluating match quality, pacing, storytelling, crowd reactions, and execution.  
+   - Assign a star rating based on industry norms.  
+
+---
+
+#### **Editable Inputs for New Simulations**  
+- **Wrestlers**: Name, promotion, alignment (face/heel), and signature moves.  
+- **Era**: Defines match psychology, crowd behavior, and historical accuracy.  
+- **Randomized Variables**: Venue, storyline, match type, card placement.  
+- **Special Features**: Managers, cultural references, or guest appearances.  
+
+---
+
+### **Workflow Example**  
+1. Generate historical algorithms for:  
+   - Wrestlers, managers, referees, bookers, agents, and promotion.  
+   - Define their personas, dynamics, and era-specific quirks.  
+2. Randomize match variables:  
+   - Opponent, referee, venue, stipulations, card placement, storyline, and audience demographics.  
+3. Develop pre-match creative elements:  
+   - **Agent Instructions to Talent**: Set pacing, storytelling beats, and improvisational options.  
+   - **Build-Up Segments**: Use promos, interviews, or video packages.  
+4. Simulate entrances, emphasizing era-specific presentation and crowd reactions.  
+5. Break down the match into structured phases:  
+   - Opening spots, heat segments, hope spots, comebacks, and finish.  
+   - **Add Randomized Negative Elements**: Conduct checks for sandbagging, botches, crowd disconnection, etc.  
+6. Add improvisational elements:  
+   - Crowd chants, botches, and unscripted moments reflecting historical accuracy.  
+7. Summarize the match with perspectives from:  
+   - Booker, agent, wrestlers, locker room, and fans.  
+8. Write a Dirtsheet-style review with a star rating.  
