@@ -6,7 +6,7 @@ This resource is used with the AI-Wrestle Genie Infinity Custom GPT, which can b
 
 ---
 
-      1. Historical Wrestling Simulation  
+     <span style="color: blue;">1. Historical Wrestling Simulation</span> 
   What It Does:    
 Imagine stepping into a time machine and reliving iconic wrestling moments precisely as they happened. AI-WGI ensures every detail—wrestlers, moves, titles—is accurate to the chosen year and promotion.  
 
