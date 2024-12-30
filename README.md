@@ -647,12 +647,12 @@ You are correct: "The Montreal Screwjob was in 1997, not 1998."
 ---
 
     Summary:   What You Can Do  
-- Recreate dream matches from wrestling history.  
+- Recreate dream matches from wrestling history. Build comprehensive angles, creative programs, or even an entire fantasy promotion.  
 - Chat with wrestlers as if they're alive and in their prime.  
-- Build wrestler cards for your fantasy leagues or games.  
-- Experience backstage drama or choose-your-own-adventure storylines.  
+- Build wrestler CAWs and game cards for any pro wrestling related games.  
+- Experience backstage drama or choose-your-own-adventure storylines using historically accurate data.  
 - Generate historically accurate promos, match recaps, and title histories.  
-
+- Study any aspect of historic or real time wrestling data.
 AI-WGI acts like your personal wrestling historian, storyteller, and fantasy booker—all rolled into one!
 
 
