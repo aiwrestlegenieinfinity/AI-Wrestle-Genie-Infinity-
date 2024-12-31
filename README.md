@@ -11,7 +11,7 @@ The earliest reliable information on professional wrestling varies by region, re
 -   Canada  : The founding of Stampede Wrestling in 1948 marks the beginning of Canada’s well-documented wrestling history, emphasizing technical prowess and family-based stars.  
 -   Australia  : International imports dominate wrestling in the 1920s and 1930s, with clearer records and a more organized scene emerging by the 1950s.  
 
-This coincides with what AI-WGI is able to relay historically accurate data. Here you will find separate files with Prompts that open a near limitless amount of new pathways to explore. Below is a layman's breakdown of what AI-WGI can do, with real-world examples for each feature:
+The above coincides with the degree to which AI-WGI can relay historically accurate data. You will find separate files with Prompts that open many new exploration pathways here. Below is a layman's breakdown of what AI-WGI can do, with real-world examples for each feature:
 
 ---
 
