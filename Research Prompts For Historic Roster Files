@@ -1,0 +1,159 @@
+Research Prompts For Historic Roster Files
+
+***Always convert Historic Roster data to either a text or PDF file for upload into AI-WGI***
+
+      Master List of Generic Search Prompts    
+
+---
+
+      1. Name-Based Queries  
+-  "Find the bio for [Name]."   
+-  "List all entries that include [Name]."   
+-  "Which wrestlers have similar attributes to [Name]?"   
+-  "Retrieve all records starting with the letter [X]." 
+
+---
+
+      2. Time in Promotion  
+-  "List all wrestlers active in [specific year]."   
+-  "Who worked in the promotion between [start year] and [end year]?"   
+-  "Find all wrestlers with tenures longer than [X] years."   
+-  "Who joined the promotion in [year]?" 
+
+---
+
+      3. Position  
+-  "List all wrestlers in the [main event/mid-card/lower card] category."   
+-  "Who transitioned from the lower card to the main event?"   
+-  "Find all wrestlers who consistently performed in the [card level] tier." 
+
+---
+
+      4. Wrestling Style  
+-  "List all wrestlers with a [technical/high-flying/powerhouse] style."   
+-  "Who combined multiple wrestling styles?"   
+-  "Find all entries describing [specific style]."   
+-  "Which wrestlers introduced unique styles to the promotion?" 
+
+---
+
+      5. Signature Moves  
+-  "List all wrestlers known for [specific move]."   
+-  "Who used submission holds as a finisher?"   
+-  "Retrieve all wrestlers with high-risk signature moves."   
+-  "Which wrestlers innovated their move sets over time?" 
+
+---
+
+      6. Description  
+-  "Summarize all entries that mention [specific keyword]."   
+-  "Find bios highlighting [specific storyline/achievement]."   
+-  "Which wrestlers were described as [trait: e.g., resilient, charismatic]?"   
+-  "Retrieve all bios with descriptions of [specific role or gimmick]." 
+
+---
+
+      7. Role Alignment  
+-  "List all wrestlers aligned as [heel/face/tweener]."   
+-  "Who switched from heel to face alignment during their career?"   
+-  "Find all wrestlers with an unpredictable alignment." 
+
+---
+
+      8. Tag Team Affiliations  
+-  "List all wrestlers who were part of [specific tag team]."   
+-  "Find all wrestlers with multiple tag team affiliations."   
+-  "Who formed notable alliances in the promotion?" 
+
+---
+
+      9. Feuds/Rivalries  
+-  "List all wrestlers involved in rivalries with [Name]."   
+-  "Who had the most significant feuds in [specific year]?"   
+-  "Find all entries describing long-running rivalries." 
+
+---
+
+      10. Titles Held  
+-  "List all wrestlers who won [specific championship]."   
+-  "Who held multiple titles simultaneously?"   
+-  "Retrieve all records of titleholders in [specific year]."   
+-  "Which wrestlers won championships within their first year?" 
+
+---
+
+      11. Event Highlights  
+-  "List all wrestlers who participated in [specific event]."   
+-  "Who headlined the main event of [event/year]?"   
+-  "Retrieve all entries mentioning [specific match type or event outcome]."   
+-  "Which wrestlers consistently appeared in major events?" 
+
+---
+
+      12. Promotions Worked With  
+-  "List all wrestlers who made cross-promotional appearances."   
+-  "Which wrestlers were loaned to [specific promotion]?"   
+-  "Find all bios mentioning multiple promotions." 
+
+---
+
+      13. Retirement or Departure Reasons  
+-  "Who retired from the promotion in [specific year]?"   
+-  "List all wrestlers who left due to [reason: e.g., injury, contract disputes]."   
+-  "Which wrestlers returned to the promotion after retirement?" 
+
+---
+
+      14. Promos or Catchphrases  
+-  "List all wrestlers known for [specific promo or catchphrase]."   
+-  "Who were the most memorable mic workers?"   
+-  "Retrieve all bios mentioning standout promos." 
+
+---
+
+      15. Trainer or Mentor  
+-  "List all wrestlers trained by [Name]."   
+-  "Find all trainers who influenced multiple top wrestlers."   
+-  "Which wrestlers later became trainers?" 
+
+---
+
+      16. Fan Reception  
+-  "List all wrestlers described as crowd favorites."   
+-  "Who received polarizing reactions from fans?"   
+-  "Find all bios mentioning massive crowd responses."   
+-  "Which wrestlers’ fan reception shifted dramatically over time?" 
+
+---
+
+      17. Match Types  
+-  "List all wrestlers associated with [specific match type]."   
+-  "Who innovated stipulations in [specific type of match]?"   
+-  "Find all bios mentioning gimmick matches." 
+
+---
+
+      18. Historical Impact  
+-  "Which wrestlers had the most influence on [specific aspect: e.g., wrestling style, women’s wrestling]?"   
+-  "List all bios mentioning contributions to [specific legacy or innovation]."   
+-  "Who helped define the promotion’s identity during [specific period]?" 
+
+---
+
+      Advanced Multi-Criteria Queries  
+-  "Find all wrestlers with a high-flying style who won championships between 2005 and 2010."   
+-  "List all heels active in [specific year] who participated in title matches."   
+-  "Who transitioned from a face alignment to a tweener and held a title?"   
+-  "Retrieve all main event wrestlers with a technical style and memorable promos." 
+
+---
+
+      Trend and Group Analysis  
+-  "What trends are visible in title wins from [start year] to [end year]?"   
+-  "Who were the most successful wrestlers by match outcomes in [specific time frame]?"   
+-  "Group all wrestlers by their wrestling style and alignment."   
+-  "Which signature moves were most common across the roster?" 
+
+---
+
+This   master list   ensures you can efficiently search and analyze data from any structured file while maintaining flexibility to adapt prompts to specific needs. 
