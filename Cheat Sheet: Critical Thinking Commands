@@ -1,0 +1,166 @@
+Below is a **comprehensive “Cheat Sheet”** covering all commands from the **Final Master Algorithm (v2.1)**. To avoid any omission (i.e., “no truncation”), **every** command is listed under its respective category. Each entry includes:
+
+- **Command & Alias**: The original slash command plus a short alias (where applicable).  
+- **Brief Purpose**: A concise description of what the command does.  
+- **Typical Usage (Example)**: A short example or prompt to show how it might be invoked.
+
+Feel free to copy or adapt these tables into a PDF or online reference.
+
+---
+
+## **A. Core Commands**
+
+| **Command & Alias**         | **Brief Purpose**                                                                                                 | **Typical Usage (Example)**                                                                                                                 |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| **/Continue** <br>*/cnt*    | Resumes from the exact stopping point in the previous output, ensuring a seamless flow.                           | `"/Continue"` <br>*Resumes text mid-sentence.*                                                                                                |
+| **/GenerateSuperWords** <br>*/gsw* | Produces advanced or multi-theme keywords to enrich brainstorming.                                                  | `"/GenerateSuperWords [Theme: Cognitive Expansion]"` <br>*Returns higher-level, nuanced keywords.*                                           |
+| **/GeneratePromptPatterns** <br>*/gpp* | Suggests structural “prompt patterns” (e.g., Explain–Analyze–Reflect) to guide or shape a discussion or analysis. | `"/GeneratePromptPatterns [Purpose: Critical Thinking]"` <br>*Yields patterns like “Compare–Contrast–Conclude.”*                              |
+| **/CreateVariableList** <br>*/cvl*    | Compiles placeholder variables (e.g., `[MAIN_TOPIC]`, `[PERSPECTIVE]`) for more flexible prompt-building.            | `"/CreateVariableList"` <br>*Returns a template-like list of placeholders.*                                                                   |
+| **/GenerateBlindspots** <br>*/gbs*    | Identifies easily overlooked factors or risks in a plan, solution, or argument.                                   | `"/GenerateBlindspots [Topic: Marketing Strategy]"` <br>*Outputs potential missed considerations.*                                           |
+| **/InsightPivotList**       | Suggests multiple angles or perspectives (“pivots”) for deeper exploration of a single topic.                       | `"/InsightPivotList [Topic: Workplace Automation]"` <br>*Generates viewpoint pivots (cost–benefit, ethical, etc.).*                          |
+| **/GenerateConnectionsList** | Generates interrelated ideas or themes to uncover new or cross-domain insights.                                    | `"/GenerateConnectionsList [Topic: Neuroscience + Architecture]"` <br>*Identifies synergy points, e.g. “impact of built environments.”*       |
+| **/ExpandConcept**          | Broadens a given idea by introducing related themes, tangential topics, or big-picture perspectives.               | `"/ExpandConcept [Concept: Data Privacy]"` <br>*Suggests expansions like “Regulatory frameworks, ethical considerations, user trust,” etc.*   |
+
+---
+
+## **B. Reflective & Analytical Commands**
+
+Below, they are **grouped** into subcategories for clarity. All commands from the original final list (v2.1) are included.
+
+### **B.1. Critical Reflection & Gap Detection**
+
+| **Command & Alias**               | **Brief Purpose**                                                                                                                    | **Typical Usage (Example)**                                                                                                               |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **/RecursiveCheck**               | Initiates repeated questioning to probe deeper into a concept or conclusion.                                                         | `"/RecursiveCheck [Topic: Employee Turnover]"` <br>*Generates iterative “why?” queries.*                                                 |
+| **/AssumptionAudit** <br>*/aa*    | Highlights hidden or unexamined assumptions in a proposal or line of reasoning.                                                      | `"/AssumptionAudit [Topic: Forecasting Sales]"` <br>*Outputs “Assumption of stable economy,” etc.*                                       |
+| **/FeedbackLoop**                 | Begins a cycle for refining a response based on user-provided feedback or new data.                                                  | `"/FeedbackLoop"` <br>*Prompts for user input, then revises prior outputs.*                                                              |
+| **/ReflectiveOptimization**       | Revisits and refines existing reflections or partial answers for greater clarity and depth.                                          | `"/ReflectiveOptimization [Draft: Proposed Solution to Budget Cuts]"`                                                                    |
+| **/ReflectiveGapDetection** <br>*/rgd* | Identifies omissions or holes in an argument, outline, or plan.                                                                        | `"/ReflectiveGapDetection [Outline: Marketing Plan]"` <br>*Finds missing competitor analysis or brand positioning.*                      |
+| **/RecursiveQuestionCycle** <br>*/rqc* | Produces multi-layered, iterative “why” or “how” questions to discover core issues.                                                   | `"/RecursiveQuestionCycle [Topic: AI Regulation]"` <br>*Digs deeper with each question.*                                                  |
+| **/InsightPivot**                 | Shifts a question or discussion to a fresh angle (e.g., from cost focus to user experience).                                          | `"/InsightPivot [Topic: Supply Chain Bottlenecks]"`                                                                                       |
+| **/GenerateExamples**             | Offers concrete examples or use cases to illustrate a concept or principle.                                                          | `"/GenerateExamples [Concept: Behavioral Economics]"` <br>*Gives real-world scenarios.*                                                  |
+| **/MetaReflection** <br>*/mrf*    | Examines the reasoning process itself, checking for biases or leaps in logic.                                                         | `"/MetaReflection"` <br>*Evaluates thoroughness of prior steps.*                                                                         |
+| **/ContextualShifts**             | Reframes a concept across different contexts (individual, societal, global) for broader insights.                                     | `"/ContextualShifts [Topic: Remote Work Policies]"`                                                                                       |
+| **/NegativeImplications** <br>*/ni* | Identifies potential drawbacks or risks in a proposed solution or strategy.                                                             | `"/NegativeImplications [Proposal: Aggressive Expansion Strategy]"`                                                                      |
+
+### **B.2. Problem-Solving & Decision Tools**
+
+| **Command & Alias**                       | **Brief Purpose**                                                                | **Typical Usage (Example)**                                                                                     |
+|-------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **/ConductRootCauseAnalysis** <br>*/rca*  | Decomposes a problem to find the fundamental source(s).                          | `"/ConductRootCauseAnalysis [Problem: Software Bugs]"`                                                          |
+| **/DevelopDecisionMatrices** <br>*/ddm*   | Creates a matrix/table to compare multiple options or solutions.                 | `"/DevelopDecisionMatrices [Options: Vendor A vs. Vendor B vs. Vendor C]"`                                      |
+| **/PerformSWOTAnalysis** <br>*/psa*       | Analyzes Strengths, Weaknesses, Opportunities, and Threats for a given topic.    | `"/PerformSWOTAnalysis [Topic: Launching a New Product Line]"`                                                 |
+| **/ConductScenarioPlanning** <br>*/csp*   | Explores possible future scenarios and strategies (e.g., best-case, worst-case). | `"/ConductScenarioPlanning [Context: Economic Downturn]"`                                                       |
+| **/DevelopContingencyPlans** <br>*/dcp*   | Lays out backup options for each scenario in case conditions change unexpectedly. | `"/DevelopContingencyPlans [Challenge: Supply Chain Disruption]"`                                               |
+| **/AnalyzeRiskFactors** <br>*/arf*        | Identifies and evaluates possible risks, their severity, and likelihood.          | `"/AnalyzeRiskFactors [Project: Global Expansion]"`                                                             |
+| **/OptimizeWorkflows** <br>*/owf*         | Suggests ways to improve efficiency or eliminate bottlenecks in processes.       | `"/OptimizeWorkflows [Department: Customer Support]"`                                                           |
+| **/IdentifyCognitiveBiases**              | Recognizes common biases (confirmation bias, anchoring, etc.) that may skew analysis. | `"/IdentifyCognitiveBiases [Topic: Hiring Process]"`                                                          |
+| **/GenerateCounterarguments**             | Produces opposing viewpoints to ensure balanced consideration.                    | `"/GenerateCounterarguments [Position: Working Remotely Increases Productivity]"`                               |
+| **/GenerateAnalogiesBetweenFields**       | Draws parallels across different domains (e.g., “medicine vs. cybersecurity”).    | `"/GenerateAnalogiesBetweenFields [Fields: Quantum Computing & Supply Chain]"`                                  |
+| **/ExploreEthicalImplications**           | Investigates moral or ethical concerns around a plan or technology.              | `"/ExploreEthicalImplications [Topic: AI-Powered Hiring]"`                                                      |
+| **/ConductCulturalComparisons**           | Compares how different cultures approach a concept or issue.                     | `"/ConductCulturalComparisons [Business Strategy: US vs. Japan]"`                                               |
+| **/AnalyzeHistoricalPrecedents**          | Looks at historical examples to inform current decisions.                        | `"/AnalyzeHistoricalPrecedents [Topic: Economic Crisis Management]"`                                            |
+| **/IntegrateArtAndScience**               | Merges artistic creativity with scientific data or methods for innovative solutions. | `"/IntegrateArtAndScience [Concept: Urban Planning]"`                                                        |
+| **/ExplorePhilosophicalUnderpinnings**    | Probes fundamental philosophical angles or theories behind a topic.             | `"/ExplorePhilosophicalUnderpinnings [Theme: Technology & Free Will]"`                                          |
+| **/SynthesizeScientificFindings**         | Combines multiple data sets or studies into cohesive conclusions.                | `"/SynthesizeScientificFindings [Research: Climate Change Reports]"`                                            |
+
+---
+
+## **C. Management & System Commands**
+
+Commands designed to **manage** the system itself, generate structured outputs, or provide administrative insights.
+
+| **Command & Alias**           | **Brief Purpose**                                                                                              | **Typical Usage (Example)**                                                                                     |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **/SystemPromptReview**       | Displays or summarizes ChatGPT’s current “system prompt” or underlying instructions.                           | `"/SystemPromptReview"`                                                                                         |
+| **/ProfileAssessment**        | Requests the system’s understanding of the user’s context or goals based on recent interactions.              | `"/ProfileAssessment"`                                                                                          |
+| **/CommandFeedbackSummary**   | Summarizes how effectively commands have been used and suggests optimization.                                  | `"/CommandFeedbackSummary"`                                                                                     |
+| **/ShowStructuresOfOutput**   | Reveals text structures (headings, bulleting) the system uses to format responses.                             | `"/ShowStructuresOfOutput"`                                                                                     |
+| **/ShowVisualStructuresOfOutput** | Outlines available visual output formats (tables, mind maps) and their best use cases.                    | `"/ShowVisualStructuresOfOutput"`                                                                               |
+| **/GenerateMindMap**          | Creates a conceptual mind map for a topic, showing main nodes and branches.                                    | `"/GenerateMindMap [Topic: Personal Finance]"`                                                                  |
+| **/CreateListReflectiveQuestions** | Compiles questions that target deeper reflection on a specific concept.                                   | `"/CreateListReflectiveQuestions [Theme: Leadership Styles]"`                                                   |
+| **/GenerateDivergentQuestions**    | Produces broad, creative questions to explore multiple angles or solutions.                               | `"/GenerateDivergentQuestions [Problem: Reducing Plastic Waste]"`                                               |
+| **/ConvergentThinkingMode**        | Refines a range of ideas into a smaller set of the most viable ones.                                      | `"/ConvergentThinkingMode [Brainstorm Output: 10 Product Ideas]"`                                               |
+| **/GenerateTaskList**              | Compiles actionable steps (a “to-do” list) to implement a plan or solve a problem.                         | `"/GenerateTaskList [Project: Launching a Personal Blog]"`                                                      |
+| **/OutputTables**                  | Formats key points or data into a table for clarity.                                                       | `"/OutputTables [Data: Sales by Quarter in 2024]"`                                                               |
+| **/RecursiveAdjustmentCycle**      | Continuously refines answers or solutions based on prior outputs and new feedback.                        | `"/RecursiveAdjustmentCycle [Topic: Writing a White Paper]"`                                                     |
+| **/ExpandMetaInquiry**             | Broadens inquiry-based prompts to include questions about the **process** of inquiry itself.              | `"/ExpandMetaInquiry [Topic: Why pursue brand loyalty?]"`                                                       |
+| **/GenerateCommandMap**            | Displays how commands relate or feed into one another (dependencies, suggested flows).                    | `"/GenerateCommandMap"`                                                                                         |
+| **/InsightfulAngleList**           | Lists potential new angles or perspectives for a given subject.                                           | `"/InsightfulAngleList [Topic: Corporate Social Responsibility]"`                                               |
+| **/ListNewCommands**               | Suggests new command structures that might address recent user inquiries or trends.                      | `"/ListNewCommands"`                                                                                            |
+| **/GenerateProcessMap**            | Creates a step-by-step workflow or flowchart for complex tasks or projects.                               | `"/GenerateProcessMap [Goal: Implementing Agile in a Startup]"`                                                 |
+| **/GenerateInterconnections**      | Identifies potential links between separate concepts, encouraging integrated exploration.                 | `"/GenerateInterconnections [Concepts: Blockchain, Healthcare, Security]"`                                       |
+| **/GenerateAlternativeSolutions**  | Suggests additional solutions or approaches to a problem for broader innovation.                         | `"/GenerateAlternativeSolutions [Issue: Declining Employee Morale]"`                                            |
+| **/MetaSynthesis**                 | Combines key insights from different responses or commands into a single, cohesive synthesis.             | `"/MetaSynthesis"`                                                                                              |
+
+---
+
+## **D. Advanced Commands**
+
+High-level commands for **systemic analyses**, **multi-perspective feedback**, and **future scenario modeling**. Subdivided for easier reading.
+
+### **D.1. Complex Systemic Analysis**
+
+| **Command & Alias**                      | **Brief Purpose**                                                                                       | **Typical Usage (Example)**                                                                                |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **/GenerateSystemicHypotheses** <br>*/gsh* | Produces interconnected hypotheses about a complex system, considering multiple variables or feedback loops. | `"/GenerateSystemicHypotheses [Topic: Education Reform]"`                                                 |
+| **/BlindspotAssessmentCycle**           | Iteratively uncovers hidden blind spots from multiple perspectives.                                     | `"/BlindspotAssessmentCycle [Strategy: Expanding into Emerging Markets]"`                                 |
+| **/CausalLayeredAnalysis**              | Examines a topic at multiple layers (litany, systemic causes, worldviews, myths/metaphors).             | `"/CausalLayeredAnalysis [Problem: Decline in Voter Turnout]"`                                            |
+| **/GenerateRecursiveExploration**       | Revisits a topic at increasing depths, refining each pass.                                              | `"/GenerateRecursiveExploration [Topic: Corporate Governance Ethics]"`                                     |
+| **/InterconnectedThemesAnalysis** <br>*/ita* | Detects overarching patterns or themes across different arguments or domains.                             | `"/InterconnectedThemesAnalysis [Ideas: AI in Finance, AI in Healthcare, AI in Education]"`               |
+| **/GenerateDynamicDecisionTree**        | Builds a branching decision tree that adapts based on earlier outcomes.                                 | `"/GenerateDynamicDecisionTree [Situation: Choosing a Marketing Strategy]"`                                |
+| **/ScenarioResilienceAssessment**       | Evaluates how robust or “resilient” scenarios or strategies are under changing conditions.              | `"/ScenarioResilienceAssessment [Plan: Launching a Mobile App]"`                                           |
+| **/GameTheoryScenarioGeneration** <br>*/gtsg* | Simulates strategic scenarios using game theory logic (multiple players, possible moves, payoffs).         | `"/GameTheoryScenarioGeneration [Context: Negotiating a Trade Deal]"`                                      |
+| **/GenerateSequentialSimulations**      | Produces a series of potential outcomes for a plan or strategy, iterating from one result to the next.  | `"/GenerateSequentialSimulations [Topic: Rolling Out Policy Changes]"`                                     |
+| **/TransdisciplinarySynthesis** <br>*/tds* | Integrates insights from multiple disciplines into a cohesive solution.                                   | `"/TransdisciplinarySynthesis [Problem: Income Inequality]"`                                               |
+| **/ConceptualEvolutionMap**            | Maps how a concept has changed over time or across fields, noting key shifts or trends.                  | `"/ConceptualEvolutionMap [Concept: AI Ethics]"`                                                            |
+| **/SystemSynergyMapping**              | Identifies synergy points where elements combine to create enhanced outcomes.                           | `"/SystemSynergyMapping [Ecosystem: University + Tech Startups + Local Government]"`                        |
+| **/AnalogicalSynthesis**               | Draws complex analogies across domains to spark innovative connections.                                  | `"/AnalogicalSynthesis [Fields: Climate Change & Healthcare Resource Allocation]"`                          |
+| **/GenerateComplexPatternRecognition**  | Detects intricate patterns or trends in multi-faceted data or arguments.                                | `"/GenerateComplexPatternRecognition [Dataset: Customer Churn + Social Media Engagement]"`                  |
+| **/ContinuousLearningPath**            | Outlines a progressive, evolving learning roadmap for a specified domain.                               | `"/ContinuousLearningPath [Topic: Quantum Computing Basics to Advanced]"`                                  |
+| **/GenerateAdaptiveHeuristic**         | Creates heuristics that shift based on new data or changing environments.                               | `"/GenerateAdaptiveHeuristic [Context: Allocating Project Resources]"`                                      |
+
+### **D.2. Meta-Reflection & Self-Improvement**
+
+| **Command & Alias**               | **Brief Purpose**                                                                                                 | **Typical Usage (Example)**                                                                                                           |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **/MultiPerspectiveFeedbackLoop** | Collects feedback from multiple viewpoints, then refines the approach or answer accordingly.                      | `"/MultiPerspectiveFeedbackLoop [Topic: Proposed Healthcare Policy]"`                                                                 |
+| **/RecursiveRefinementCycle**     | Iteratively revisits a question or solution, integrating feedback or new angles at each pass.                     | `"/RecursiveRefinementCycle [Thesis Draft: Impacts of Social Media on Mental Health]"`                                               |
+| **/MetaCognitionAudit** <br>*/mca* | Evaluates the quality of reasoning, identifying potential oversights or cognitive shortcuts.                        | `"/MetaCognitionAudit"` <br>*Examines logic for biases or leaps.*                                                                    |
+| **/GenerateFractalModeling**      | Uses fractal principles to map repeating, self-similar structures in a complex system.                             | `"/GenerateFractalModeling [Topic: Organizational Hierarchy Patterns]"`                                                              |
+| **/EmergentPropertyAssessment**   | Looks for properties that only arise when components interact (emergent behaviors).                                | `"/EmergentPropertyAssessment [System: Social Networks & Viral Trends]"`                                                              |
+| **/RecursiveAnalogyLayering**     | Builds layered analogies step by step, providing deeper understanding of abstract concepts.                        | `"/RecursiveAnalogyLayering [Concept: Blockchain Security]"`                                                                         |
+| **/MetaAssumptionsCheck**         | Examines underlying assumptions across multiple steps or viewpoints.                                              | `"/MetaAssumptionsCheck [Discussion: Free Trade Policies]"`                                                                           |
+| **/GenerateComplexInterdependencies** | Maps how various parts of a system mutually influence each other.                                                  | `"/GenerateComplexInterdependencies [System: Global Food Supply Chain]"`                                                             |
+| **/ContextualLayerShifting**      | Shifts analysis across different contextual layers (e.g., individual → group → societal) for deeper insight.       | `"/ContextualLayerShifting [Issue: Internet Privacy]"`                                                                                |
+| **/GenerateSystemDiagnostics**    | Analyzes the performance or alignment of multiple command sequences, suggesting improvements.                       | `"/GenerateSystemDiagnostics"`                                                                                                        |
+| **/SystemFeedbackAnalysis** <br>*/sfa* | Reviews user/system feedback from recent interactions to refine subsequent responses or commands.                  | `"/SystemFeedbackAnalysis"`                                                                                                           |
+| **/SelfOptimizationCycle** <br>*/soc* | Implements a loop of self-improvement for command usage or the system’s approach.                                  | `"/SelfOptimizationCycle"`                                                                                                            |
+| **/GenerateAdminReport**          | Summarizes command efficiency, usage patterns, and satisfaction levels for administrative oversight.               | `"/GenerateAdminReport"`                                                                                                              |
+| **/CommandDependencyMap**         | Shows interdependencies among commands, illustrating logical flows or synergy.                                      | `"/CommandDependencyMap"`                                                                                                             |
+| **/MetaCommandFeedbackCycle**     | Runs a recursive check on the effectiveness of recent command choices, suggesting ways to refine them.             | `"/MetaCommandFeedbackCycle"`                                                                                                         |
+
+---
+
+## **Notes on Usage & Further Tips**
+
+1. **Context is Key**  
+   - Many commands (especially advanced ones) thrive on **detailed** context or examples. The richer your input, the more nuanced the output.
+
+2. **Combine Commands**  
+   - It’s often helpful to **chain** commands. For instance, use **/GenerateBlindspots** first, then run **/NegativeImplications** on the newly discovered issues.
+
+3. **Watch Out for Overuse**  
+   - Some commands (e.g., **/RecursiveQuestionCycle**, **/GameTheoryScenarioGeneration**) can produce repetitive or lengthy outputs if not guided with specifics.
+
+4. **Aliases & Tags**  
+   - Shortcut aliases (e.g., `/rqc` for `/RecursiveQuestionCycle`) speed up usage. Tags are optional but help in searching or referencing commands.
+
+5. **Periodic Maintenance**  
+   - Keep a **CHANGELOG** if you modify or add commands. Regularly review which commands are used frequently (or rarely) to refine your custom GPT environment.
+
+---
+
+### **End of Complete Cheat Sheet**
+
+You now have a **no-truncation** list of **all** the commands in the Final Master Algorithm (v2.1), grouped into **Core**, **Reflective & Analytical**, **Management & System**, and **Advanced** categories, with short examples and purposes for each. This should serve as a **one-stop reference** for leveraging every aspect of the command set effectively.
